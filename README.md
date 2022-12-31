@@ -1,0 +1,2 @@
+# kCounter
+We count discounts.
